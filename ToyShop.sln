@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop.Web", "ToyShop.Web\ToyShop.Web.csproj", "{B3715AB5-DC4B-4990-8253-6A1DC3BDB766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop.Api", "ToyShop.Api\ToyShop.Api.csproj", "{633D8B6B-847D-495D-B45D-80E66546C71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop.Shared", "ToyShop.Shared\ToyShop.Shared.csproj", "{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3715AB5-DC4B-4990-8253-6A1DC3BDB766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3715AB5-DC4B-4990-8253-6A1DC3BDB766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3715AB5-DC4B-4990-8253-6A1DC3BDB766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3715AB5-DC4B-4990-8253-6A1DC3BDB766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633D8B6B-847D-495D-B45D-80E66546C71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633D8B6B-847D-495D-B45D-80E66546C71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633D8B6B-847D-495D-B45D-80E66546C71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633D8B6B-847D-495D-B45D-80E66546C71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

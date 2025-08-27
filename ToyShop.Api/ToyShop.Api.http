@@ -1,0 +1,6 @@
+@ToyShop.Api_HostAddress = http://localhost:5161
+
+GET {{ToyShop.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

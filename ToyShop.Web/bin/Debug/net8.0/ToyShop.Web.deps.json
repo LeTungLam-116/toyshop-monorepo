@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ToyShop.Web/1.0.0": {
+        "runtime": {
+          "ToyShop.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToyShop.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
