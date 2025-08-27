@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ToyShop.Web/1.0.0": {
+        "dependencies": {
+          "ToyShop.Shared": "1.0.0"
+        },
         "runtime": {
           "ToyShop.Web.dll": {}
+        }
+      },
+      "ToyShop.Shared/1.0.0": {
+        "runtime": {
+          "ToyShop.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ToyShop.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyShop.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

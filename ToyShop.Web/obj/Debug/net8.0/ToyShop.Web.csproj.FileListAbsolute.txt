@@ -28,3 +28,8 @@ C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\refint\ToyShop.Web.dll
 C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\ToyShop.Web.pdb
 C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\ToyShop.Web.genruntimeconfig.cache
 C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\ref\ToyShop.Web.dll
+C:\Users\tugla\ToyShop\ToyShop.Web\bin\Debug\net8.0\ToyShop.Shared.dll
+C:\Users\tugla\ToyShop\ToyShop.Web\bin\Debug\net8.0\ToyShop.Shared.pdb
+C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\ToyShop.Web.csproj.AssemblyReference.cache
+C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\ToyShop.Web.sourcelink.json
+C:\Users\tugla\ToyShop\ToyShop.Web\obj\Debug\net8.0\ToyShop..E2316076.Up2Date

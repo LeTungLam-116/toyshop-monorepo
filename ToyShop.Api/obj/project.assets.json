@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ToyShop.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ToyShop.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToyShop.Shared.dll": {}
+        }
       }
     }
   },
@@ -473,12 +483,18 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ToyShop.Shared/1.0.0": {
+      "type": "project",
+      "path": "../ToyShop.Shared/ToyShop.Shared.csproj",
+      "msbuildProject": "../ToyShop.Shared/ToyShop.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.OpenApi >= 8.0.19",
-      "Swashbuckle.AspNetCore >= 6.6.2"
+      "Swashbuckle.AspNetCore >= 6.6.2",
+      "ToyShop.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -512,7 +528,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tugla\\ToyShop\\ToyShop.Shared\\ToyShop.Shared.csproj": {
+              "projectPath": "C:\\Users\\tugla\\ToyShop\\ToyShop.Shared\\ToyShop.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

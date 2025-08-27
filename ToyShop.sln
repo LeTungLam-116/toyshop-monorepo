@@ -9,13 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop.Api", "ToyShop.Api\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop.Shared", "ToyShop.Shared\ToyShop.Shared.csproj", "{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB09D2D2-7806-4D0F-80AD-3B725BA02995}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B3715AB5-DC4B-4990-8253-6A1DC3BDB766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +32,8 @@ Global
 		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618B8E0A-8387-4A49-BD29-9CFB2178BD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
